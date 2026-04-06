@@ -1,0 +1,5 @@
+{
+  "name": "Les Grosses Têtes - Générateur",
+  "description": "Un chatbot qui génère des questions de culture générale à la manière de Laurent Ruquier dans Les Grosses Têtes, basées sur l'éphéméride d'une date donnée.",
+  "requestFramePermissions": []
+}
